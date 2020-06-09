@@ -1,4 +1,4 @@
-# Starting-Out-with-Python-Unofficial-Solutions
+# Starting Out with Python - Unofficial Solutions
 
 This repository includes my personal solutions to the Programming Excercises from the 2nd edition of Tony Gaddis's *Starting Out with Python*. 
 
